@@ -1,24 +1,24 @@
-﻿{
-    "product":  "OJaimeBoost Professional Sensors Edition",
-    "channel":  "stable",
-    "version":  "1.0.52",
-    "latest_version":  "1.0.52",
-    "build":  "20260820",
-    "published_at":  "2026-08-20",
-    "mandatory":  false,
-    "title":  "ActualizaciÃ³n V1.0.52 disponible",
-    "summary":  "Tema adaptable Sistema/Oscuro/Claro y puente firmado OJaimeSensors para lecturas reales de temperatura con verificaciÃ³n Authenticode.",
-    "release_notes":  "La interfaz incorpora una paleta profesional con preferencia persistente. OJaimeSensors se ejecuta automÃ¡ticamente solo cuando Windows valida la firma de OJAIME SOLUTIONS LLC; los fallbacks seguros permanecen activos.",
-    "download_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.52/OJaimeBoost_Professional_Sensors_Edition_V1_0_52_SIGNED_SENSORS_THEME_Setup.exe",
-    "update_download_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.52/OJaimeBoost_Professional_Sensors_Edition_V1_0_52_SIGNED_SENSORS_THEME_Setup.exe",
-    "versioned_asset_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.52/OJaimeBoost_Professional_Sensors_Edition_V1_0_52_SIGNED_SENSORS_THEME_Setup.exe",
-    "sha256":  "2BF1B2A5499E48FBC8368117A9E6252DE5DD0B08628E3CCC6FF9468AA554F9E3",
-    "release_notes_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/tag/v1.0.52",
-    "minimum_windows":  "Windows 10 x64",
-    "requires_admin_for":  [
-                               "OptimizaciÃ³n del sistema",
-                               "Punto de restauraciÃ³n",
-                               "Salud avanzada del disco",
-                               "Acciones sobre procesos y servicios"
-                           ]
+{
+  "product": "OJaimeBoost Professional Sensors Edition",
+  "channel": "stable",
+  "version": "1.0.53",
+  "latest_version": "1.0.53",
+  "build": "20260821",
+  "published_at": "2026-08-21",
+  "mandatory": false,
+  "title": "Actualización V1.0.53 disponible",
+  "summary": "Tema claro accesible, activación offline segura, sensores firmados y descargas públicas confiables.",
+  "release_notes": "Mejora el contraste del tema claro, incorpora verificación Ed25519 para licencias offline, conserva el sensor de temperaturas firmado y evita enlaces privados, rotos o no HTTPS en el actualizador.",
+  "download_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.53/OJaimeBoost_Professional_Sensors_Edition_V1_0_53_PUBLIC_DOWNLOAD_FIX_Setup.exe",
+  "update_download_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.53/OJaimeBoost_Professional_Sensors_Edition_V1_0_53_PUBLIC_DOWNLOAD_FIX_Setup.exe",
+  "versioned_asset_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.53/OJaimeBoost_Professional_Sensors_Edition_V1_0_53_PUBLIC_DOWNLOAD_FIX_Setup.exe",
+  "sha256": "7F26ECE5B768C3726C5CBC3D259FF21A518BAF4680486B925597A17B2E5ED1EB",
+  "release_notes_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/tag/v1.0.53",
+  "minimum_windows": "Windows 10 x64",
+  "requires_admin_for": [
+    "Optimización del sistema",
+    "Punto de restauración",
+    "Salud avanzada del disco",
+    "Acciones sobre procesos y servicios"
+  ]
 }

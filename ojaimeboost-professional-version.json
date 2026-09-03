@@ -1,24 +1,24 @@
 {
-    "product":  "OJaimeBoost Professional Sensors Edition",
-    "channel":  "stable",
-    "version":  "1.0.58",
-    "latest_version":  "1.0.58",
-    "build":  "20260830",
-    "published_at":  "2026-08-30",
-    "mandatory":  false,
-    "title":  "OJaimeBoost V1.0.58 disponible",
-    "summary":  "Interfaz adaptable, panel IA accesible y correcciones de idioma ES/EN.",
-    "release_notes":  "El chat IA queda separado del desplazamiento del diagnóstico y pasa a pestañas en ventanas estrechas. Se corrigen el ajuste DPI, las tarjetas y los textos que permanecían en otro idioma. Se conserva el componente de sensores firmado v1.0.57 sin cambios.",
-    "download_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.58/OJaimeBoost_Professional_Sensors_Edition_V1_0_58_ADAPTIVE_UI_LANGUAGE_FIX_Setup.exe",
-    "update_download_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.58/OJaimeBoost_Professional_Sensors_Edition_V1_0_58_ADAPTIVE_UI_LANGUAGE_FIX_Setup.exe",
-    "versioned_asset_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.58/OJaimeBoost_Professional_Sensors_Edition_V1_0_58_ADAPTIVE_UI_LANGUAGE_FIX_Setup.exe",
-    "sha256":  "8018AE6666F1FC3B2867A7522F77EF8F4B3FFE95CB4D80036BDB24E8CE02D91F",
-    "release_notes_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/tag/v1.0.58",
-    "minimum_windows":  "Windows 10 x64",
-    "requires_admin_for":  [
-                               "Optimización del sistema",
-                               "Punto de restauración",
-                               "Salud avanzada del disco",
-                               "Acciones sobre procesos y servicios"
-                           ]
+    "product": "OJaimeBoost Professional Sensors Edition",
+    "channel": "stable",
+    "version": "1.0.58",
+    "latest_version": "1.0.58",
+    "build": "20260830",
+    "published_at": "2026-08-30",
+    "mandatory": false,
+    "title": "OJaimeBoost V1.0.58 disponible",
+    "summary": "Interfaz adaptable, panel IA accesible y correcciones de idioma ES/EN.",
+    "release_notes": "El chat IA queda separado del desplazamiento del diagnóstico y pasa a pestañas en ventanas estrechas. Se corrigen el ajuste DPI, las tarjetas y los textos que permanecían en otro idioma. Se conserva el componente de sensores firmado v1.0.57 sin cambios.",
+    "download_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/latest/download/OJaimeBoost_Professional_Setup.exe",
+    "update_download_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/latest/download/OJaimeBoost_Professional_Setup.exe",
+    "versioned_asset_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.58/OJaimeBoost_Professional_Setup.exe",
+    "sha256": "8018AE6666F1FC3B2867A7522F77EF8F4B3FFE95CB4D80036BDB24E8CE02D91F",
+    "release_notes_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/tag/v1.0.58",
+    "minimum_windows": "Windows 10 x64",
+    "requires_admin_for": [
+        "Optimización del sistema",
+        "Punto de restauración",
+        "Salud avanzada del disco",
+        "Acciones sobre procesos y servicios"
+    ]
 }

@@ -1,24 +1,25 @@
 {
-    "product":  "OJaimeBoost Professional Sensors Edition",
-    "channel":  "stable",
-    "version":  "1.0.67",
-    "latest_version":  "1.0.67",
-    "build":  "20261015",
-    "published_at":  "2026-10-15",
-    "mandatory":  false,
-    "title":  "OJaimeBoost V1.0.67 disponible",
-    "summary":  "Integridad de lanzamiento: sensores veraces, reversión persistente e instalador x64.",
-    "release_notes":  "Las métricas no disponibles ya no se convierten en 0%; la IA usa exactamente la cifra dibujada. Los cambios reversibles sobreviven al reinicio de la app y se restauran al desinstalar. La evaluación se muestra sin recortes, la acción recomendada exige una reducción mínima medible y el instalador usa modo x64.",
-    "download_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.67/OJaimeBoost_Professional_Sensors_Edition_V1_0_67_LAUNCH_INTEGRITY_FIX3_Setup.exe",
-    "update_download_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.67/OJaimeBoost_Professional_Sensors_Edition_V1_0_67_LAUNCH_INTEGRITY_FIX3_Setup.exe",
-    "versioned_asset_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.67/OJaimeBoost_Professional_Sensors_Edition_V1_0_67_LAUNCH_INTEGRITY_FIX3_Setup.exe",
-    "sha256":  "3DB5E15E4245F102B09D20CB3BC43FC8619BB8A00B2D1616D6A65544CFA36329",
-    "release_notes_url":  "https://github.com/osnellj/OJaimeBoost-Downloads/releases/tag/v1.0.67",
-    "minimum_windows":  "Windows 10 x64",
-    "requires_admin_for":  [
-                               "Optimización del sistema",
-                               "Punto de restauración",
-                               "Salud avanzada del disco",
-                               "Acciones sobre procesos y servicios"
-                           ]
+  "product": "OJaimeBoost Professional Sensors Edition",
+  "channel": "stable",
+  "version": "1.0.68",
+  "latest_version": "1.0.68",
+  "build": "20261021",
+  "published_at": "2026-10-21",
+  "mandatory": false,
+  "title": "OJaimeBoost V1.0.68 disponible",
+  "summary": "Interfaz por monitor, respuestas IA por audiencia y sensores firmados verificados.",
+  "release_notes": "La interfaz se adapta al área de trabajo y DPI del monitor activo sin perder el chat. El Modo Cliente explica sin tecnicismos y el Modo IT Pro responde con hallazgo, evidencia y acción. La aplicación valida la firma del sensor con una comprobación reforzada. El EXE verifica URL, SHA-256, Authenticode y el editor OJAIME SOLUTIONS LLC antes de mostrar una actualización. Microsoft Store conserva su flujo administrado.",
+  "download_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.68/OJaimeBoost_Professional_Sensors_Edition_V1_0_68_DISPLAY_SAFE_UPDATE_Setup.exe",
+  "update_download_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.68/OJaimeBoost_Professional_Sensors_Edition_V1_0_68_DISPLAY_SAFE_UPDATE_Setup.exe",
+  "versioned_asset_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/download/v1.0.68/OJaimeBoost_Professional_Sensors_Edition_V1_0_68_DISPLAY_SAFE_UPDATE_Setup.exe",
+  "sha256": "1100CAAFD08F0C1DE9CC37D5578B2B6153469EBD05B7E87B78DD016B08EA20CC",
+  "release_notes_url": "https://github.com/osnellj/OJaimeBoost-Downloads/releases/tag/v1.0.68",
+  "minimum_windows": "Windows 10 x64",
+  "requires_admin_for": [
+    "Optimización del sistema",
+    "Punto de restauración",
+    "Salud avanzada del disco",
+    "Acciones sobre procesos y servicios"
+  ],
+  "installer_sha256": "1100CAAFD08F0C1DE9CC37D5578B2B6153469EBD05B7E87B78DD016B08EA20CC"
 }
